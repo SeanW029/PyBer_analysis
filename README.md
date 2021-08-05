@@ -15,7 +15,7 @@ The purpose of the new analysis is to analyze how the ride-sharing and fare data
 
    ![image](https://user-images.githubusercontent.com/83438418/127747062-e92a69fc-30eb-4d86-a503-16858591b98e.png)
 
-## Summry
+## Summary
 
 From the analysis there are some disparities amongst city types, namely the total rides, total drivers and total fares. Rural area has the lowest number of total rides, total drivers hence total fares, whereas on average, each driver contributes the highest fare revenue; it is the opposite for urban area with the highest number of total rides, total drivers and total fares, with lowest fare revenue from each driver on average. 
 
